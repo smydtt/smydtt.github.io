@@ -4,12 +4,12 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /talks/    
+    url: /teaching/    
 
-  #- title: "Publications"
-  #  url: /teaching/    
+  - title: "Supervision"
+    url: /supervision/    
     
-  #- title: "Other stuff"
+  #- title: "Conferences"
   #  url: /portfolio/
         
   #- title: "Blog Posts"
