@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://smydtt.github.io/files/Soumya_CV_18-05-2022.pdf
     
   - title: "Contact"
     url: /markdown/
