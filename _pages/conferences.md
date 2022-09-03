@@ -63,3 +63,29 @@ author_profile: true
 (2005): ‘Exchange rate management system & development strategy: A comparative study of India & China’ (with Surbhi Badhwar) in National Seminar on ‘Emerging India-China Relations: Prospects and Challenges’, jointly organized by Shyam Lal College (Evening) and Department of East Asian Studies, University of Delhi.
 
 (2001): ‘Financing of investment in a multiplier-accelerator framework’ in Winter School 2001-02, organized by Centre for Development Economics, Delhi School of Economics.
+
+### Invited / Special Lectures
+
+(2021): (with C. Saratchand) ‘Inflation Targeting under Differentiated Endogenously Heterogeneous Inflation Expectations’, organized by University of Missouri-Kansas City, April 16, 2021.
+
+(2020): ‘Lectures on Behavioral Macroeconomics & Finance’ (delivered online), organized by Hindu College, University of Delhi. May 7-8, 2020.
+
+(2020): ‘Asset Pricing Models’ and ‘Selected Topics in International Finance’ (two lectures), Faculty Development Program on Advanced Topics in Macroeconomic Theory and Policy, organized by Department of Business Economics & Ramanujan College, University of Delhi. March 6-14, 2020.
+
+(2020): ‘Welfare Theorems in Macroeconomics: When do they fail?’, Workshop on Economic Theory and Empirics, organized by South Asian University, New Delhi, February 19-20, 2020.
+
+(2020): ‘Role of Mathematics in Sustainable Development of Economies’, Lecture & Panel Discussion organized by Lady Shriram College for Women, University of Delhi. January 24, 2020.
+
+(2019): ‘Limits of Arbitrage in Post-Crisis Forex Markets: Revisiting Basel III Norms’, Invited Lecture, Ashoka University, India. March 13, 2019.
+
+(2019): ‘Introduction to Behavioral Macroeconomics’, in Workshop on Behavioral Economics, organized by Satyawati College, University of Delhi and Meghnad Desai Academy of Economics, Delhi. February 13, 2019.
+
+(2017): ‘Can Limits of Arbitrage explain Bounded Rationality among Speculative Traders in Foreign Exchange Markets?’ Invited Lecture in the Faculty Seminar Series of Department of Humanities and Social Sciences, Indian Institute of Technology Guwahati, April 8, 2017.
+
+(2012): ‘Cycles and complex dynamical possibilities of real-financial interaction’, seminar organized by School of Computational and Integrative Sciences, Jawaharlal Nehru University, New Delhi.
+
+(2004): ‘Relationship between financial fragility and macroeconomic volatility in a simple demand-constrained model’, seminar organized by IILM Institute for Higher Education, Gurgaon.
+
+
+### Panel Discussion
+(2018): Chaired a Panel Discussion on South Asian Economic Development in 6th Peradeniya International Economics Research Symposium, November 8-9, 2018, at University of Peradeniya, Sri Lanka.
