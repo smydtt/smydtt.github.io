@@ -11,4 +11,4 @@ and limits of arbitrage in an incomplete market setting. My recent research in t
 In recent years, following the outbreak of COVID-19 pandemic, one line of my research has been studying the interaction between macroeconomic and epidemiological factors in shaping the evolution of the pandemic. My research in this area has combined elements from mathematical epidemiological models with macroeconomic models in evaluating various policy choices involving vaccination and non-pharmaceutical interventions. My current ongoing research evaluates the choice between _Zero-Covid Policy_ and a policy 
 involving _Living with Covid_, where I argue and provide evidence in favor of a Zero-Covid Policy. Apart from this, I have also been involved in research projects with my doctoral students, in diverse areas like international migration, political economy of the Arab Spring events, institutional economics, conflict and economic growth, capital controls, regional inequality, measuring returns to education, optimal currency areas in South Asia, etc. 
 
-![image info](./images/idmshift.png)
+![image info](./images/idmshift2.png) ![image info](./images/idmshift.png)
