@@ -12,3 +12,5 @@ In recent years, following the outbreak of COVID-19 pandemic, one line of my res
 involving _Living with Covid_, where I argue and provide evidence in favor of a Zero-Covid Policy. Apart from this, I have also been involved in research projects with my doctoral students, in diverse areas like international migration, political economy of the Arab Spring events, institutional economics, conflict and economic growth, capital controls, regional inequality, measuring returns to education, optimal currency areas in South Asia, etc. 
 
 ![image info](./images/idmshift2.png "title-1" =50%x) ![image info](./images/idmshift.png "title-2" =50%x)
+
+<img src="./images/idmshift2.png" width="425"/> <img src="./images/idmshift.png" width="425"/> 
