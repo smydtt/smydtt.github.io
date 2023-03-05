@@ -13,12 +13,13 @@ author_profile: true
 
 * Ram Narayan Shreshtha: "Essays in Migration and Economic Development" (2021).
 
-
-*On-going*
+*Submitted*
 
 * Mirwais Parsa: "Essays in Institutions and Economic Development".
 
 * Tariq Basir: "Essays in Political Economy of Regime Changes and Democratization".
+
+*On-going*
 
 * Zahidullah Muhammadi: "Essays in Conflict and Economic Development".
 
@@ -40,6 +41,6 @@ author_profile: true
 
 ### As Co-supervisor in Supervisory Committee
 
-*On-going*
+*Submitted*
 
 * Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor)
