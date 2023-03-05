@@ -8,6 +8,8 @@ author_profile: true
 
 ### Working Papers
 
+* Parsa and Datta. [Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000-2020](http://www.sau.int/fe-wp/wp014.pdf).
+
 * Datta and Saratchand. [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf).
 
 * Datta and Saratchand. [Explosion, Waves of Resurgence or Convergence? Macroeconomic and Epidemiological Dynamics of the COVID-19 Pandemic](http://www.sau.int/fe-wp/wp009.pdf).
