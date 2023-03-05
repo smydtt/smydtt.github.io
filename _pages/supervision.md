@@ -35,6 +35,13 @@ author_profile: true
 
 * T.M. Vasuprada: "Incentives for Innovation: Patents, Standards and R\&D in the Pharmaceuticals and Information and Communication Technology Industry" (with Dr. Debdatta Saha as Main Supervisor), 2020.
 
+*On-going*
+
+* Arushi Bijalwan: "Essays on Access to Welfare Goods and Services: Understanding Low-income Cluster's Perspective" (with Prof. Arup Mitra as Main Supervisor).
+
+* Sapnam Adhikari: "Essays on Entrepreneurship: Special Lens on Bhutan" (with Dr. Debdatta Saha as Main Supervisor).
+
+* Sudeepto Das: "Leisure, Health & Productivity Nexus: A Class Analysis and Econometric Modeling Using Time Use Survey of India" (with Prof. Arup Mitra as Main Supervisor).
 
 
 ## M.Phil. Supervision
@@ -43,4 +50,4 @@ author_profile: true
 
 *Submitted*
 
-* Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor)
+* Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor).
