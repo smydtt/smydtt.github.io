@@ -50,4 +50,4 @@ author_profile: true
 
 *Completed*
 
-* Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor).
+* Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor), 2023.
