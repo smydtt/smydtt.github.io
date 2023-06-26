@@ -48,6 +48,6 @@ author_profile: true
 
 ### As Co-supervisor in Supervisory Committee
 
-*Submitted*
+*Completed*
 
 * Kamaljeet Singh: "Optimum Currency Areas in South Asia" (with Prof. Sunil Kumar as Main Supervisor).

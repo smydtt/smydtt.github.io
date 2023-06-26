@@ -8,7 +8,7 @@ author_profile: true
 
 ### Work In Progress
 
-* (with C. Saratchand) Book manuscript under contract with *Routledge, UK*: _Foundations of Post-Keynesian Macrodynamics_, expected to be completed by December 2025.
+* (with C. Saratchand) Book manuscript under contract with **Routledge, UK**: _Foundations of Post-Keynesian Macrodynamics_, expected to be completed by December 2025.
 
 ### Working Papers
 
