@@ -13,11 +13,9 @@ author_profile: true
 
 * Ram Narayan Shreshtha: "Essays in Migration and Economic Development" (2021).
 
-*Submitted*
+* Mirwais Parsa: "Essays in Institutions and Economic Development" (2023).
 
-* Mirwais Parsa: "Essays in Institutions and Economic Development".
-
-* Tariq Basir: "Essays in Political Economy of Regime Changes and Democratization".
+* Tariq Basir: "Essays in Political Economy of Regime Changes and Democratization" (2023).
 
 *On-going*
 
