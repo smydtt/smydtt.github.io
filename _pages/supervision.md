@@ -19,13 +19,13 @@ author_profile: true
 
 *On-going*
 
-* Zahidullah Muhammadi: "Essays in Conflict and Economic Development".
-
 * Bidhan Aryal: "Essays on Returns to Education".
 
 * Abdul Malik: "Essays on Regional Disparities in Human Development".
 
 * Mukesh Kumar: "Essays on the Management of Foreign Capital Flows".
+
+* Zahidullah Muhammadi: "Essays in Conflict and Economic Development" (deregistered from 2023).
 
 ### As Co-supervisor in Supervisory Committee
 
