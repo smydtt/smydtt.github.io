@@ -7,8 +7,7 @@ author_profile: true
 
 My research interest lies broadly in the area of behavioral macroeconomics and finance, nonlinear dynamics and mathematical epidemiology. 
 
-In a departure from macroeconomic models with representative agents, my research focuses on the complex dynamics of interaction between heterogeneous agents with bounded rationality. This broad framework allows inclusion of factors like cognitive limitations of the agents
-and limits of arbitrage in an incomplete market setting. My recent research in this direction has analyzed the impact of bounded rationality and limits of arbitrage on forex markets after Global Financial Crisis. Through formal models, I show in this work that an increase in prudential norms might be counter-productive, increasing (instead of decreasing) volatility in the forex markets. 
+In a departure from macroeconomic models with representative agents, my research focuses on the complex dynamics of interaction between heterogeneous agents with bounded rationality. This broad framework allows inclusion of factors like unequal distribution of wealth and income, cognitive limitations of the agents and limits of arbitrage in an incomplete market setting. My recent research in this direction has analyzed the impact of bounded rationality and limits of arbitrage on forex markets after Global Financial Crisis. Through formal models, I show in this work that an increase in prudential norms might be counter-productive, increasing (instead of decreasing) volatility in the forex markets. My currently ongoing research examines the dynamics of interaction between economic growth and income distribution. 
 
 My research has also contributed to understanding the effect of monetary policy on growth and distribution of income in a world characterized by heterogeneous expectations and bounded rationality.
 
