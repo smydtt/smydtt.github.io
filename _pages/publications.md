@@ -12,8 +12,6 @@ author_profile: true
 
 ### Working Papers
 
-* Parsa and Datta. [Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000-2020](http://www.sau.int/fe-wp/wp014.pdf).
-
 * Datta and Saratchand. [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf).
 
 * Datta and Saratchand. [Explosion, Waves of Resurgence or Convergence? Macroeconomic and Epidemiological Dynamics of the COVID-19 Pandemic](http://www.sau.int/fe-wp/wp009.pdf).
@@ -21,6 +19,10 @@ author_profile: true
 * Basir and Datta. [Determinants of Arab Spring: An Empirical Investigation](http://www.sau.int/fe-wp/wp006.pdf)
 
 ### Articles in Journals
+
+* Basir and Datta (forthcoming). `Bread, Freedom or Social Justice? An Empirical Investigation into the Determinants of Arab Spring', _Democratization_, accepted in October, 2023.
+
+* Parsa and Datta (2023). [Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000-2020](https://www.tandfonline.com/doi/full/10.1080/10168737.2023.2261012?src=), _International Economic Journal_, published online on October 6, 2023.
 
 * Datta and Saratchand (2021). [Non-pharmaceutical interventions in a generalized model of interactive dynamics between COVID-19 and the economy](https://link.springer.com/article/10.1007/s11071-021-06712-9), _Nonlinear Dynamics,_ 105:2795-2810.
 
