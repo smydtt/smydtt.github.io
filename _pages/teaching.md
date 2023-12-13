@@ -5,11 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Upcoming:
+[//]: <> ## Upcoming:
 
 * [Computational Macroeconomics (M.A. Economics Semester-III) - Monsoon 2023](https://smydtt.github.io/files/CM-23.pdf)
 
 ## Some recent courses I taught:
+
+* [Computational Macroeconomics (M.A. Economics Semester-III) - Monsoon 2023](https://smydtt.github.io/files/CM-23.pdf)
 
 * [Macroeconomics-II (M.A. Economics Semester-II) - Winter 2023](https://smydtt.github.io/files/Macro-II-2023_course_outline.pdf)
 
