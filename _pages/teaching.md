@@ -7,9 +7,9 @@ author_profile: true
 
 [//]: <> ## Upcoming:
 
-* [Computational Macroeconomics (M.A. Economics Semester-III) - Monsoon 2023](https://smydtt.github.io/files/CM-23.pdf)
+[//]: <> * [Computational Macroeconomics (M.A. Economics Semester-III) - Monsoon 2023](https://smydtt.github.io/files/CM-23.pdf)
 
-## Some recent courses I taught:
+## Some recent courses I taught at South Asian University:
 
 * [Computational Macroeconomics (M.A. Economics Semester-III) - Monsoon 2023](https://smydtt.github.io/files/CM-23.pdf)
 
