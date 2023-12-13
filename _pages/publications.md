@@ -20,7 +20,7 @@ author_profile: true
 
 ### Articles in Journals
 
-* Basir and Datta (forthcoming). `Bread, Freedom or Social Justice? An Empirical Investigation into the Determinants of Arab Spring', _Democratization_, accepted in October, 2023.
+* Basir and Datta (2021). `Bread, Freedom or Social Justice? An Empirical Investigation into the Determinants of Arab Spring', _Democratization_.
 
 * Parsa and Datta (2023). [Institutional Quality and Economic Growth: A Dynamic Panel Data Analysis of MICs and HICs for 2000-2020](https://www.tandfonline.com/doi/full/10.1080/10168737.2023.2261012?src=), _International Economic Journal_, 37:4, pp. 675-712.
 
