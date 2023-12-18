@@ -12,11 +12,12 @@ author_profile: true
 
 ### Working Papers
 
-* Datta and Saratchand. [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf).
+* Basir and Datta (2023). ‘Effect of Punishment Costs in Solving the Collective Action Problem in Revolutionary Movements’. (Under Review)
 
-* Datta and Saratchand. [Explosion, Waves of Resurgence or Convergence? Macroeconomic and Epidemiological Dynamics of the COVID-19 Pandemic](http://www.sau.int/fe-wp/wp009.pdf).
+* Datta and Saratchand (2021). [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf), NIPFP Working Paper No. 352.
 
-* Basir and Datta. [Determinants of Arab Spring: An Empirical Investigation](http://www.sau.int/fe-wp/wp006.pdf)
+* Datta and Saratchand (2020). [Explosion, Waves of Resurgence or Convergence? Macroeconomic and Epidemiological Dynamics of the COVID-19 Pandemic](http://www.sau.int/fe-wp/wp009.pdf), SAU Working Paper No. SAUFE-WP-2020-009.
+
 
 ### Articles in Journals
 
