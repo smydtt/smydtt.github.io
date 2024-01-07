@@ -17,6 +17,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "Codes"
+    url: /codes/
     
   - title: "CV"
     url: https://smydtt.github.io/files/Soumya_CV_18-12-2023.pdf
