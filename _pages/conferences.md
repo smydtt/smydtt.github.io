@@ -5,24 +5,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
-### Conferences and Workshops Organized
+### Forthcoming Presentations (expected) in Conferences 
 
-(2023): Coordinator, Workshop on Efficiency and Productivity Analysis using Stochastic Frontier Analysis, December 18-20, 2023 at South Asian University, New Delhi, India.
-
-(2020): Coordinator, Workshop on Data Envelopment Analysis for Performance Evaluation and Benchmarking, January 12-14, 2020 at South Asian University, New Delhi, India.
-
-(2019): Coordinator, International Conference on Measurement of Efficiency and Productivity in Emerging Economies, December 18-19, 2019 at South Asian University, New Delhi, India.
-
-(2019): Coordinator, Workshop on Efficiency and Productivity Analysis using R, November 1-2, 2019 at South Asian University, New Delhi, India.
-
-(2018): Co-coordinator, International Workshop on Efficiency and Productivity Measurement using Data Envelopment Analysis, November 27-29, 2018 at South Asian University, New Delhi, India.
-
-(2018): Member, Core Organizing Committee, 6th Peradeniya International Economics Research Symposium, November 8-9, 2018, at University of Peradeniya, Sri Lanka.
-
-(2018): Member, Core Organizing Committee, 4th International Conference on South Asian Economic Development, February 22-23, 2018, at South Asian University, New Delhi, India.
-
-(2016): Organizing Secretary, 2nd International Conference on South Asian Economic Development, February 18-19, 2016, at South Asian University, New Delhi, India.
-
+(2024): RCEA International Conference in Economics, Econometrics and Finance (Brunel University, London, UK, May 20-22), The 72nd Congress of the French Economic Association (Bordeaux School of Economics, France, June 17-19), 30th International Conference on Computing in Economics and Finance (Nanyang Technological University, Singapore, june 20-22), 27th Annual Workshop on Economics with Heterogeneous Interacting Agents (University of Bamberg, Germany, July 9-11).
 
 ### Papers Presented in Conferences
 
@@ -66,6 +51,16 @@ author_profile: true
 
 (2001): ‘Financing of investment in a multiplier-accelerator framework’ in Winter School 2001-02, organized by Centre for Development Economics, Delhi School of Economics.
 
+### Joint Papers Presented by Co-authors
+
+(2024): (presented by Tariq Basir) `Effect of punishment costs in solving the collective action problem in revolutionary movements´, \emph{\nth{81} Annual Midwest Political Association Conference}, Chicago, April 4-7, 2024.
+
+(2020): (presented online by Tariq Basir) `A coordination game of regime change and democratization: Information manipulation and intermediate regimes', in Special Session on Regime Change Modeling, in 14th International Conference on Computational and Financial Econometrics (CFE), organized online, December 19-21, 2020.
+
+(2020): (presented online by Mirwais Parsa) `Institutional Determinants of Domestic Investment: A GMM Panel Data Analysis', Peradeniya International Economics Research Symposium 2020, December 10, 2020.
+
+(2020): (presented online by Tariq Basir) `Violent Protests and Transitional Regimes: Empirical Evidence from Arab Spring', Peradeniya International Economics Research Symposium 2020, December 10, 2020.
+
 ### Invited / Special Lectures
 
 (2021): (with C. Saratchand) ‘Inflation Targeting under Differentiated Endogenously Heterogeneous Inflation Expectations’, organized by University of Missouri-Kansas City, April 16, 2021.
@@ -91,3 +86,22 @@ author_profile: true
 
 ### Panel Discussion
 (2018): Chaired a Panel Discussion on South Asian Economic Development in 6th Peradeniya International Economics Research Symposium, November 8-9, 2018, at University of Peradeniya, Sri Lanka.
+
+### Conferences and Workshops Organized
+
+(2023): Coordinator, Workshop on Efficiency and Productivity Analysis using Stochastic Frontier Analysis, December 18-20, 2023 at South Asian University, New Delhi, India.
+
+(2020): Coordinator, Workshop on Data Envelopment Analysis for Performance Evaluation and Benchmarking, January 12-14, 2020 at South Asian University, New Delhi, India.
+
+(2019): Coordinator, International Conference on Measurement of Efficiency and Productivity in Emerging Economies, December 18-19, 2019 at South Asian University, New Delhi, India.
+
+(2019): Coordinator, Workshop on Efficiency and Productivity Analysis using R, November 1-2, 2019 at South Asian University, New Delhi, India.
+
+(2018): Co-coordinator, International Workshop on Efficiency and Productivity Measurement using Data Envelopment Analysis, November 27-29, 2018 at South Asian University, New Delhi, India.
+
+(2018): Member, Core Organizing Committee, 6th Peradeniya International Economics Research Symposium, November 8-9, 2018, at University of Peradeniya, Sri Lanka.
+
+(2018): Member, Core Organizing Committee, 4th International Conference on South Asian Economic Development, February 22-23, 2018, at South Asian University, New Delhi, India.
+
+(2016): Organizing Secretary, 2nd International Conference on South Asian Economic Development, February 18-19, 2016, at South Asian University, New Delhi, India.
+
