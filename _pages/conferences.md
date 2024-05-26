@@ -11,7 +11,7 @@ author_profile: true
 
 ### Papers Presented in Conferences
 
-(2024) (with Saroj Kumar Sahani) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in \emph{The 2024 RCEA International Conference in Economics, Econometrics, and Finance}, organized by Rimini Centre for Economic Analysis, Brunel University, UC Riverside and DEMS Universita Degli Studi di Milano Bicocca at Brunel University, London, May 20-22, 2024. 
+(2024) (with Saroj Kumar Sahani) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in The 2024 RCEA International Conference in Economics, Econometrics, and Finance, organized by Rimini Centre for Economic Analysis, Brunel University, UC Riverside and DEMS Universita Degli Studi di Milano Bicocca at Brunel University, London, May 20-22, 2024. 
 
 (2021): (with C. Saratchand) ‘Explosion, Waves of Resurgence or Convergence? Macroeconomic and Epidemiological Dynamics of the COVID-19 Pandemic’ in 2021 Web Conference on Economic Theory and Policy, organized by NIPFP, New Delhi. March 30-31, 2021.
 
