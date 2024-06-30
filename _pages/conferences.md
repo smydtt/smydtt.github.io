@@ -5,10 +5,6 @@ permalink: /conferences/
 author_profile: true
 ---
 
-<### Forthcoming Presentations (expected) in Conferences >
-
-<(2024): The 72nd Congress of the French Economic Association (Bordeaux School of Economics, France, June 17-19), 30th International Conference on Computing in Economics and Finance (Nanyang Technological University, Singapore, June 20-22), 27th Annual Workshop on Economics with Heterogeneous Interacting Agents (University of Bamberg, Germany, July 9-11).>
-
 ### Papers Presented in Conferences
 
 (2024) (with Saroj Kumar Sahani) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in The 2024 RCEA International Conference in Economics, Econometrics, and Finance, organized by Rimini Centre for Economic Analysis, Brunel University, UC Riverside and DEMS Universita Degli Studi di Milano Bicocca at Brunel University, London, May 20-22, 2024. 
