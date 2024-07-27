@@ -9,7 +9,7 @@ author_profile: true
 
 (2024) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in 27th Annual Workshop on Economic Science with Heterogeneous Interacting Agents (WEHIA), organized by the Society for Economic Studies with Heterogeneous Interacting Agents, Otto-Friedrich-Universität Bamberg, Germany. July 9-11, 2024.
 
-(2024) `Conflict of opinions: An alternative route to conflict inflation?' in 6th Behavioral Macroeconomics Workshop, University of Heidelberg, Germany. July 4-6, 2024.
+(2024) (with C. Saratchand) `Conflict of opinions: An alternative route to conflict inflation?' in 6th Behavioral Macroeconomics Workshop, University of Heidelberg, Germany. July 4-6, 2024.
 
 (2024) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in 72nd Congress of Association Française de Science Economique, Bordeaux School of Economics, Bordeaux, France. June 17-19, 2024.
 
