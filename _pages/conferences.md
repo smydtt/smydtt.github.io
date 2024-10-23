@@ -7,6 +7,8 @@ author_profile: true
 
 ### Papers Presented in Conferences
 
+(2024) `Credibility of inflation targeting in a New Keynesian model with bounded rationality and heuristic switching' in International Workshop on Economic Complexity and Macroeconomic Dynamics, GAIAS Europa Campus, Universidad San Francisco de Quito, Valencia, Spain (jointly organized with the University of Bamberg’s Institute of Economics and Universitat Jaume I), October 17-18, 2024.
+
 (2024) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in 27th Annual Workshop on Economic Science with Heterogeneous Interacting Agents (WEHIA), organized by the Society for Economic Studies with Heterogeneous Interacting Agents, Otto-Friedrich-Universität Bamberg, Germany. July 9-11, 2024.
 
 (2024) (with C. Saratchand) `Conflict of opinions: An alternative route to conflict inflation?' in 6th Behavioral Macroeconomics Workshop, University of Heidelberg, Germany. July 4-6, 2024.
