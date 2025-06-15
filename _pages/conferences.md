@@ -7,6 +7,12 @@ author_profile: true
 
 ### Papers Presented in Conferences
 
+(2025) `Anchoring Expectations vs.\ Direct Inflation Targeting in a New Keynesian Model with Bounded Rationality and Heuristic Switching' in 28th Annual Workshop on Economic Science with Heterogeneous Interacting Agents (WEHIA), Queen Mary University of London, UK. June 9-11, 2025.
+
+(2025) `Anchoring Expectations vs.\ Direct Inflation Targeting in a New Keynesian Model with Bounded Rationality and Heuristic Switching' in 9th International Workshop on Financial Markets and Nonlinear Dynamics, Paris, France. June 5-6, 2025.
+
+(2025) (with C. Saratchand) `Limit cycles in a macrodynamic model of investment and conflict inflation with an inflation targeting central bank' in 6th Nordic Post-Keynesian Conference, Aalborg, Denmark. April 24-25, 2025.
+
 (2024) `Credibility of inflation targeting in a New Keynesian model with bounded rationality and heuristic switching' in International Workshop on Economic Complexity and Macroeconomic Dynamics, GAIAS Europa Campus, Universidad San Francisco de Quito, Valencia, Spain (jointly organized with the University of Bamberg’s Institute of Economics and Universitat Jaume I), October 17-18, 2024.
 
 (2024) `Endogenous cycles and distribution dynamics in a neoclassical growth model with heterogeneous agents' in 27th Annual Workshop on Economic Science with Heterogeneous Interacting Agents (WEHIA), organized by the Society for Economic Studies with Heterogeneous Interacting Agents, Otto-Friedrich-Universität Bamberg, Germany. July 9-11, 2024.
