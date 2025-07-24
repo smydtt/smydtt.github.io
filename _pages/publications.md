@@ -12,7 +12,9 @@ author_profile: true
 
 ### Working Papers
 
-* Basir and Datta (2023). ‘Effect of Punishment Costs in Solving the Collective Action Problem in Revolutionary Movements’. (Under Review)
+* Datta (2025). [Endogenous Inequality and Mobility in a Neoclassical Growth Model with Hand-to-Mouth Households](https://sau.int/wp-content/uploads/2025/07/SD_SAU-WP_07-25.pdf), SAU Working Paper No.\ SAUFE-WP-2025-018. (Under Review)
+
+* Basir and Datta (2025). ‘Carrots and Sticks to Solve the Collective Action Problem in Revolutionary Movements’. (Under Review)
 
 * Datta and Saratchand (2021). [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf), NIPFP Working Paper No. 352.
 
