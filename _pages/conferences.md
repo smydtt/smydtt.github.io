@@ -7,6 +7,8 @@ author_profile: true
 
 ### Papers Presented in Conferences
 
+(2025) 'An Empirical Investigation into 'Forward-looking Inflation Forecast Targeting' in India under Bounded Rationality' in The 10th Annual Conference of the Society for Economic Measurement (SEM), Athens University of Economics and Business, Greece. July 10-12, 2025.
+
 (2025) `Anchoring Expectations vs. Direct Inflation Targeting in a New Keynesian Model with Bounded Rationality and Heuristic Switching' in 28th Annual Workshop on Economic Science with Heterogeneous Interacting Agents (WEHIA), Queen Mary University of London, UK. June 9-11, 2025.
 
 (2025) `Anchoring Expectations vs. Direct Inflation Targeting in a New Keynesian Model with Bounded Rationality and Heuristic Switching' in 9th International Workshop on Financial Markets and Nonlinear Dynamics, Paris, France. June 5-6, 2025.
