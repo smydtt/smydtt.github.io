@@ -19,7 +19,7 @@ author_profile: true
 
 *Submitted*
 
-* Bidhan Aryal: "Essays on Returns to Education".
+* Bidhan Aryal: "Essays on Returns to Education" (2025).
 
 *On-going*
 
