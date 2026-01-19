@@ -12,9 +12,15 @@ author_profile: true
 
 ### Working Papers
 
-* Datta (2025). [Endogenous Inequality and Mobility in a Neoclassical Growth Model with Hand-to-Mouth Households](https://sau.int/wp-content/uploads/2025/07/SD_SAU-WP_07-25.pdf), SAU Working Paper No.\ SAUFE-WP-2025-018. (Under Review)
+* Aryal and Datta (2025). Private and social returns to educational investment in Nepal: Estimates using alternative methods. (Under Review)
 
-* Basir and Datta (2025). ‘Carrots and Sticks to Solve the Collective Action Problem in Revolutionary Movements’. (Under Review)
+* Datta (2025). [Credibility of inflation targeting in a New Keynesian model with bounded rationality and heuristic switching](https://sau.int/wp-content/uploads/2025/11/sdsauwp.pdf), SAU Working Paper No. SAUFE-WP-2025-020. (Under Review)
+
+* Datta (2025). An Empirical Investigation into the Heuristics of Household Inflation Expectations in India. (Under Review)
+
+* Datta (2025). [Endogenous Inequality and Mobility in a Neoclassical Growth Model with Hand-to-Mouth Households](https://sau.int/wp-content/uploads/2025/07/SD_SAU-WP_07-25.pdf), SAU Working Paper No. SAUFE-WP-2025-018. (Under Review)
+
+* Basir and Datta (2025). Carrots and Sticks to Solve the Collective Action Problem in Revolutionary Movements. (Under Review)
 
 * Datta and Saratchand (2021). [On the Macrodynamics of COVID-19 Vaccination](https://nipfp.org.in/media/medialibrary/2021/08/WP_352_2021.pdf), NIPFP Working Paper No. 352.
 
