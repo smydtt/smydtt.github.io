@@ -17,17 +17,19 @@ author_profile: true
 
 * Tariq Basir: "Essays in Political Economy of Regime Changes and Democratization" (2023).
 
-*On-going*
+*Submitted*
 
 * Bidhan Aryal: "Essays on Returns to Education".
 
-* Abdul Malik: "Essays on Regional Disparities in Human Development" (deregistered from 2024).
+*On-going*
+
+* Abdul Malik: "Essays on Regional Disparities in Human Development".
 
 * Mukesh Kumar: "Essays on the Management of Foreign Capital Flows".
 
-* Zahidullah Muhammadi: "Essays in Conflict and Economic Development" (deregistered from 2023).
+* Chop Kanta Subedi: "Essays on Monetary Policy".
 
-* Chop Kanta Subedi (Topic yet to be finalized)
+* Zahidullah Muhammadi: "Essays in Conflict and Economic Development" (deregistered from 2023).
 
 ### As Co-supervisor in Supervisory Committee
 
